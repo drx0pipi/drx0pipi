@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @drx0pipi
-- 👀 I’m interested in human development in the field of high-tech environment
-- 🌱 I’m currently learning to develop my potential in the field of programming
-- 💞️ I’m  looking for opportunities for cooperation, I’m  ready to help people
-- 📫 How to reach me skopintsev.d91@yandex.ru
+- 👀 I’m interested in the remarkable journey of human development within the captivating field of high-tech environments.
+- 🌱 Currently, I'm immersing myself in the world of programming, nurturing my potential and embracing the endless possibilities it holds.
+- 💞️ I’m eagerly seeking collaborative opportunities, where I can offer my assistance and make a meaningful impact on people's lives.
+- 📫 Feel free to reach out to me at skopintsev.d91@yandex.ru, and let's embark on this incredible adventure together!"
 
 <!---
 drx0pipi/drx0pipi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
