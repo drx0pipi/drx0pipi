@@ -1,3 +1,4 @@
+- 👋 Hi, I’m @drx0pipi!
 - 👀 I’m interested in the remarkable journey of human development within the captivating field of high-tech environments.
 - 🌱 Currently, I'm immersing myself in the world of programming, nurturing my potential and embracing the endless possibilities it holds.
 - 💞️ I’m eagerly seeking collaborative opportunities, where I can offer my assistance and make a meaningful impact on people's lives.
